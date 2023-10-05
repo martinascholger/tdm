@@ -1,2 +1,2 @@
 # tdm
-course on text- and data mining for humanities research
+Text and data mining for digital humanities, WS 23/24
