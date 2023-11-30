@@ -1,0 +1,2 @@
+Due to file size limitations, we had to move the pretrained models to another repository.
+Please download the pickled model here: http://gams.uni-graz.at/o:dispecs.word2vec.fr/FRENCH
